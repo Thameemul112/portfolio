@@ -1,0 +1,113 @@
+
+
+
+/**/
+/*For Android between 360px and 425px*/
+@media only screen and (min-width: 360px) and (max-width: 425px){
+    #head{
+        margin-top: 120px;
+        font-size: 1.7rem;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 95%;
+    }
+    .con{
+        margin: 10px auto;
+        height: 90%;
+    }
+    #contact_container{
+        height: 65vh
+    }
+}
+
+/**/
+/*For Android between 280px and 360px*/
+@media only screen and (min-width: 280px) and (max-width: 360px){
+
+    #head{
+        margin-top: 90px;
+        font-size: 1.2rem;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 95%;
+    }
+    .con{
+        margin: 10px auto;
+        height: 90%;
+    }
+    #contact_container{
+        height: 75vh
+    }
+}
+
+
+/**/
+/*For Tab between 426px and 724px*/
+@media only screen and (min-width: 426px) and (max-width: 769px){
+
+    #head{
+        margin-top: 120px;
+        font-size: 1.7rem;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 95%;
+    }
+    .con{
+        margin: 10px auto;
+        height: 90%;
+    }
+    #contact_container{
+        height: 66vh
+    }
+}
+
+/**/
+/*For Windows between 768px and 1024px*/
+@media only screen and (min-width: 768px) and (max-width: 1025px){
+
+    #head{
+        margin-top: 120px;
+        font-size: 1.7rem;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 95%;
+    }
+    .con{
+        margin: 10px auto;
+        height: 90%;
+    }
+    #contact_container{
+        height: 66vh
+    }
+}
+
+
+/**/
+/*For Windows between 768px and 1024px*/
+@media only screen and (min-width: 1024px) and (max-width: 1441px){
+
+    #head{
+        margin-top: 120px;
+        font-size: 1.7rem;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 95%;
+    }
+    .con{
+        margin: 10px auto;
+        height: 90%;
+    }
+    #contact_container{
+        height: 65vh
+    }
+}
